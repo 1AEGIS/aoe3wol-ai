@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>810003</nameID>
+   <tooltipID>810004</tooltipID>
+   <forcedciv>Bolivians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\avatar_Isidoro_Belzu-xs</icon>
+   <chatset>akbar</chatset>
+   <playerNames>
+      <nameID>810003<civ>Bolivians</civ></nameID> 
+  </playerNames>
+</AI>

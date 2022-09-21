@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550534</nameID>
+   <tooltipID>550535</tooltipID>
+   <forcedciv>Bulgarians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_bulgarians-xs</icon>
+   <chatset>kangxi</chatset>
+   <playerNames>
+      <nameID>550534<civ>Bulgarians</civ></nameID> 
+  </playerNames>
+</AI>

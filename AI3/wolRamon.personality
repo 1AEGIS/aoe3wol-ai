@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>620004</nameID>
+   <tooltipID>620005</tooltipID>
+   <forcedciv>Peruvians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_peruvians-xs</icon>
+   <chatset>gustav</chatset>
+   <playerNames>
+      <nameID>620004<civ>Peruvians</civ></nameID> 
+  </playerNames>
+</AI>

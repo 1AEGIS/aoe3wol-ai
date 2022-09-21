@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719426</nameID>
+   <tooltipID>719427</tooltipID>
+   <forcedciv>Koreans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_koreans-xs</icon>
+   <chatset>isabella</chatset>
+   <playerNames>
+      <nameID>719426<civ>Koreans</civ></nameID> 
+  </playerNames>
+</AI>

@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550530</nameID>
+   <tooltipID>550531</tooltipID>
+   <forcedciv>Romanians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_romanians-xs</icon>
+   <chatset>maurice</chatset>
+   <playerNames>
+      <nameID>550530<civ>Romanians</civ></nameID> 
+  </playerNames>
+</AI>

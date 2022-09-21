@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550518</nameID>
+   <tooltipID>550519</tooltipID>
+   <forcedciv>Belgians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_belgians-xs</icon>
+   <chatset>ivan</chatset>
+   <playerNames>
+      <nameID>550518<civ>Belgians</civ></nameID> 
+  </playerNames>
+</AI>

@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719422</nameID>
+   <tooltipID>719423</tooltipID>
+   <forcedciv>French</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_french-xs</icon>
+   <chatset>napoleon</chatset>
+   <playerNames>
+      <nameID>719422<civ>French</civ></nameID> 
+  </playerNames>
+</AI>

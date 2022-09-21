@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719432</nameID>
+   <tooltipID>719433</tooltipID>
+   <forcedciv>Russians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_russians-xs</icon>
+   <chatset>tewodros</chatset>
+   <playerNames>
+      <nameID>719432<civ>Russians</civ></nameID> 
+  </playerNames>
+</AI>

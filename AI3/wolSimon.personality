@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>900032</nameID>
+   <tooltipID>900033</tooltipID>
+   <forcedciv>Colombians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_colombians-xs</icon>
+   <chatset>hiawatha</chatset>
+   <playerNames>
+      <nameID>900032<civ>Colombians</civ></nameID> 
+  </playerNames>
+</AI>

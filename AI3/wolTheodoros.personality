@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550520</nameID>
+   <tooltipID>550521</tooltipID>
+   <forcedciv>Greeks</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_greeks-xs</icon>
+   <chatset>kangxi</chatset>
+   <playerNames>
+      <nameID>550520<civ>Greeks</civ></nameID> 
+  </playerNames>
+</AI>

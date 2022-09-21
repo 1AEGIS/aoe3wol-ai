@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719436</nameID>
+   <tooltipID>719437</tooltipID>
+   <forcedciv>Spanish</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_spanish-xs</icon>
+   <chatset>isabella</chatset>
+   <playerNames>
+      <nameID>719436<civ>Spanish</civ></nameID> 
+  </playerNames>
+</AI>

@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>9002291</nameID>
+   <tooltipID>9002292</tooltipID>
+   <forcedciv>Uruguayans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_uruguayans-xs</icon>
+   <chatset>gustav</chatset>
+   <playerNames>
+      <nameID>9002291<civ>Uruguayans</civ></nameID> 
+  </playerNames>
+</AI>

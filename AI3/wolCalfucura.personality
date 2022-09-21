@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550514</nameID>
+   <tooltipID>550515</tooltipID>
+   <forcedciv>WallMapu</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_mapuche-xs</icon>
+   <chatset>tewodros</chatset>
+   <playerNames>
+      <nameID>550514<civ>WallMapu</civ></nameID> 
+  </playerNames>
+</AI>

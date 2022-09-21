@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>1101802</nameID>
+   <tooltipID>1101803</tooltipID>
+   <forcedciv>Haitians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_haitians-xs</icon>
+   <chatset>napoleon</chatset>
+   <playerNames>
+      <nameID>1101802<civ>Haitians</civ></nameID> 
+  </playerNames>
+</AI>

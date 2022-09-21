@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>444504</nameID>
+   <tooltipID>444505</tooltipID>
+   <forcedciv>UnitedStates</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_americans-xs</icon>
+   <chatset>Washington</chatset>
+   <playerNames>
+      <nameID>444504<civ>UnitedStates</civ></nameID> 
+  </playerNames>
+</AI>

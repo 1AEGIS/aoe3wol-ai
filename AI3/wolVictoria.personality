@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>900042</nameID>
+   <tooltipID>900043</tooltipID>
+   <forcedciv>British</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_british-xs</icon>
+   <chatset>elizabeth</chatset>
+   <playerNames>
+      <nameID>900042<civ>British</civ></nameID> 
+  </playerNames>
+</AI>

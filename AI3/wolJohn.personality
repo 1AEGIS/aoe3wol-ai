@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>444502</nameID>
+   <tooltipID>444503</tooltipID>
+   <forcedciv>Canadians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_canadians-xs</icon>
+   <chatset>kangxi</chatset>
+   <playerNames>
+      <nameID>444502<civ>Canadians</civ></nameID> 
+  </playerNames>
+</AI>

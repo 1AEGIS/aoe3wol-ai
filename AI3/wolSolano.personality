@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>900028</nameID>
+   <tooltipID>900029</tooltipID>
+   <forcedciv>Paraguayans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_paraguayans-xs</icon>
+   <chatset>ivan</chatset>
+   <playerNames>
+      <nameID>900028<civ>Paraguayans</civ></nameID> 
+  </playerNames>
+</AI>

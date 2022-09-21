@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719420</nameID>
+   <tooltipID>719421</tooltipID>
+   <forcedciv>Dutch</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_dutch-xs</icon>
+   <chatset>maurice</chatset>
+   <playerNames>
+      <nameID>719420<civ>Dutch</civ></nameID> 
+  </playerNames>
+</AI>

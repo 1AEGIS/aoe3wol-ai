@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>76996</nameID>
+   <tooltipID>76997</tooltipID>
+   <forcedciv>Swedish</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_swedish-xs</icon>
+   <chatset>gustav</chatset>
+   <playerNames>
+      <nameID>76996<civ>Swedish</civ></nameID> 
+  </playerNames>
+</AI>

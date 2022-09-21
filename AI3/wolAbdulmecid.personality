@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>900026</nameID>
+   <tooltipID>900027</tooltipID>
+   <forcedciv>Ottomans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_ottomans-xs</icon>
+   <chatset>suleiman</chatset>
+   <playerNames>
+      <nameID>900026<civ>Ottomans</civ></nameID> 
+  </playerNames>
+</AI>

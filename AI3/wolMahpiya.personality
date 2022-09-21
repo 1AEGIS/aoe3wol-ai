@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>719434</nameID>
+   <tooltipID>719435</tooltipID>
+   <forcedciv>XPSioux</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_sioux-xs</icon>
+   <chatset>gall</chatset>
+   <playerNames>
+      <nameID>719434<civ>XPSioux</civ></nameID> 
+  </playerNames>
+</AI>

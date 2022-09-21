@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550512</nameID>
+   <tooltipID>550513</tooltipID>
+   <forcedciv>Egyptians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_egyptians-xs</icon>
+   <chatset>suleiman</chatset>
+   <playerNames>
+      <nameID>550512<civ>Egyptians</civ></nameID> 
+  </playerNames>
+</AI>

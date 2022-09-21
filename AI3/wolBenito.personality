@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>444500</nameID>
+   <tooltipID>444501</tooltipID>
+   <forcedciv>Mexicans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_mexicans-xs</icon>
+   <chatset>akbar</chatset>
+   <playerNames>
+      <nameID>444500<civ>Mexicans</civ></nameID> 
+  </playerNames>
+</AI>

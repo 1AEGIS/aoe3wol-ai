@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>550536</nameID>
+   <tooltipID>550537</tooltipID>
+   <forcedciv>Australians</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_australians-xs</icon>
+   <chatset>washington</chatset>
+   <playerNames>
+      <nameID>550536<civ>Australians</civ></nameID> 
+  </playerNames>
+</AI>

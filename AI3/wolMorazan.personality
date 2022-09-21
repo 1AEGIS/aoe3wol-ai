@@ -1,0 +1,13 @@
+<AI>
+   <version>2</version>
+   <script>aiLoaderStandard</script>
+   <nameID>9001945</nameID>
+   <tooltipID>9001946</tooltipID>
+   <forcedciv>Centralamericans</forcedciv>
+   <rushboom>0</rushboom>
+   <icon>WoL\ui\singleplayer\cpai_avatar_centralamericans-xs</icon>
+   <chatset>washington</chatset>
+   <playerNames>
+      <nameID>9001945<civ>Centralamericans</civ></nameID> 
+  </playerNames>
+</AI>
